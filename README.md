@@ -19,6 +19,6 @@ nothing special, only have your `.xls`file in the same folder with the script wh
 also make sure you type the contact phone number without any `+` sign or leading zeros `00` , just the international code followed by number.
 
 > example:
-	> 9639xxxxxxxx //syrian number
+	 9639xxxxxxxx //syrian number
 >
 after running script, you can  see your final `.vcf` file there, ready to transfer to your mobile, enjoy your fully functional vCard Arabic file!
